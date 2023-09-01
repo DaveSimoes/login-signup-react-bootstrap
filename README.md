@@ -17,6 +17,10 @@ Many beginners with basic knowledge are not sure how to start their portfolios; 
 - You must have basic knowledge of HTML, CSS, React, JavaScript, TypeScript, and a little bit of ES6. 
 - Make sure you must have [Node](https://nodejs.org/pt-br) set up in your machine, check out this tutorial on setting up Node.
 
+  
+
+   ### Clone the project
+
 
   ## 🛠 Installation and Setup Instructions /Instruções para instalação.
   
