@@ -1,4 +1,4 @@
-# A simple Login & Registration UI Template using React and Bootstrap 5
+# A simple Login & Registration UI Template using React - Bootstrap 5
 
 
 ![image](https://github.com/DaveSimoes/login-signup-react-bootstrap/assets/109705197/f8b25a05-925b-43f8-babb-1494b13c2e21)
