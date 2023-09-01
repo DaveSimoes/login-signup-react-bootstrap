@@ -4,9 +4,9 @@ An example of React login system project with basic user functionality.
 
 
 # Screenshoots
-| Log In | Create an account | Authorized page |
-| -------|--------------|-----------------|
-| <img src="./screenshots/signIn.png" width="200"> |
+| Log In | Create an account |
+| -------|--------------|
+| <img src="./screens/signIn.png" width="200"> | <img src="./screens/signUp.png" width="200"> | 
 
 
 ## Why does this repository exist?
