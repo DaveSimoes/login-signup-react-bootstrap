@@ -1,14 +1,18 @@
 
 <h2 align="center">Simple Login & Registration UI Template using React - Bootstrap 5</h2>
+An example of React login system project with basic user functionality.
 
-![image](https://github.com/DaveSimoes/login-signup-react-bootstrap/assets/109705197/f8b25a05-925b-43f8-babb-1494b13c2e21)
 
-![image](https://github.com/DaveSimoes/login-signup-react-bootstrap/assets/109705197/18bd75cd-4ea1-4403-878a-15d07822e6da) 
+# Screenshoots
 
-This project was built using these technologies:
-- React 16+
-- React Router
-- BootStrap
+
+## Why does this repository exist?
+Many beginners with basic knowledge are not sure how to start their portfolios; and with this project we want to encourage them to build something that can be applied to future projects, in this case a first part just the front end but that in the future can be coupled in a backend with a connection for example with DB No SQL such as MongoDB
+
+
+## Requirements
+- You must have basic knowledge of HTML, CSS, React, JavaScript, TypeScript, and a little bit of ES6. 
+- Make sure you must have [Node](https://nodejs.org/pt-br) set up in your machine, check out this tutorial on setting up Node.
 
 
   ## 🛠 Installation and Setup Instructions /Instruções para instalação.
@@ -16,3 +20,14 @@ This project was built using these technologies:
   1. Installation: `npm install`
 
   2. In the project directory, you can run: `npm start`
+     
+
+ ## License
+
+Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php). You can use this script for free for any
+private or commercial projects.
+
+## Contribute
+
+Please create a feature-branch if possible when committing to the project, if not then simply commit to master branch.
+
