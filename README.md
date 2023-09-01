@@ -1,5 +1,5 @@
 
-<h2 align="center"> Login-Register UI 🚀 built with React, using React Router and Bootstrap 5 </h2>
+<h2 align="center">Simple Login & Registration UI Template using React - Bootstrap 5</h2>
 
 ![image](https://github.com/DaveSimoes/login-signup-react-bootstrap/assets/109705197/f8b25a05-925b-43f8-babb-1494b13c2e21)
 
