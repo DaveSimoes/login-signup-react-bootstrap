@@ -20,6 +20,9 @@ Many beginners with basic knowledge are not sure how to start their portfolios; 
   
 
    ### Clone the project
+  ```bash
+  
+  
 
 
   ## 🛠 Installation and Setup Instructions /Instruções para instalação.
