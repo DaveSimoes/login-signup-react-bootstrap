@@ -19,10 +19,11 @@ Many beginners with basic knowledge are not sure how to start their portfolios; 
 
   
 
-   ### Clone the project
+   ### 🚀Clone the project
   ```bash
-  
-  
+  https://github.com/DaveSimoes/login-signup-react-bootstrap.git
+  cd login-signup-ui
+   ``` 
 
 
   ## 🛠 Installation and Setup Instructions /Instruções para instalação.
