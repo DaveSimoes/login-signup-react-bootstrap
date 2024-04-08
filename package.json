@@ -1,0 +1,19 @@
+{
+  "name": "login-signup-react-bootstrap",
+  "version": "1.0.0",
+  "description": "A simple Login & Registration UI Template using React - Bootstrap 5 Tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveSimoes/login-signup-react-bootstrap.git"
+  },
+  "author": "Dave Simoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveSimoes/login-signup-react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/DaveSimoes/login-signup-react-bootstrap#readme"
+}
